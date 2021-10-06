@@ -13,13 +13,8 @@ I specialize in Laravel as it's my favorite PHP Framework to build websites effi
 </ul>
 
 ## Skills
-Laravel, Livewire, Vue.JS, PHP 8, MySQL
-React, React Native
-HTML, CSS, JavaScript, jQuery
+Laravel, Livewire, Vue.JS, PHP 8, MySQL, React, React Native, HTML, CSS, JavaScript, jQuery
 
-
-## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsdenispavlovic&count_private=true)
 
 
 <!--
