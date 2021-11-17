@@ -13,7 +13,7 @@ I specialize in Laravel as it's my favorite PHP Framework to build websites effi
 </ul>
 
 ## Skills
-Laravel, Livewire, Vue.JS, PHP 8, MySQL, React, React Native, HTML, CSS, JavaScript, jQuery
+Laravel, Livewire, PHP 8, MySQL, React, React Native, HTML, CSS, JavaScript, jQuery
 
 
 
