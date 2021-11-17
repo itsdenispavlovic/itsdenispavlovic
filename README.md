@@ -3,7 +3,7 @@ I'm a Laravel Web Developer from Serbia who enjoys working with clients who appr
 
 A self-taught web developer since 2017, I've worked on everything from small websites to very large web applications.
 
-I specialize in Laravel as it's my favorite PHP Framework to build websites efficiently but I also contract as a front-end web developer, working on larger apps where I build out the front-end features through React JS and Vue JS.
+I specialize in Laravel as it's my favorite PHP Framework to build websites efficiently but I also contract as a front-end web developer, working on larger apps where I build out the front-end features through React JS.
 
 ## Where to reach me
 <ul>
