@@ -14,4 +14,5 @@
 
 📞 Phone: +381 66 803 1919 <br/>
 ✉ Email: office@denispavlovic.com <br/>
+📌 LinkedIn: https://www.linkedin.com/in/denispavlovic <br />
 💬 Skype: https://join.skype.com/invite/GCtWkBpQho6K <br/>
