@@ -1,33 +1,17 @@
-### Hi there, I'm Denis
-I'm a Laravel Web Developer from Serbia who enjoys working with clients who appreciate quality.
+🖐 I am a Senior React Frontend Developer / Contractor / Freelancer with 3+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞. I help companies around the world to design and implement their software solutions. <br/> <br/>
 
-A self-taught web developer since 2017, I've worked on everything from small websites to very large web applications.
+✅ About my skills: <br/>
+● React <br/>
+● Typescript <br/>
+● Javascript <br/>
+● jQuery <br/>
+● MaterialUI <br/>
+● Laravel <br/>
+<br/>
+🌐 Only interested in remote work. <br/> <br/>
 
-I specialize in Laravel as it's my favorite PHP Framework to build websites efficiently but I also contract as a front-end web developer, working on larger apps where I build out the front-end features through React JS.
+🤝 Do you need software solutions for your business? 𝐋𝐞𝐭'𝐬 𝐜𝐨𝐧𝐧𝐞𝐜𝐭! <br/> <br/>
 
-## Where to reach me
-<ul>
-<li>LinkedIn: https://www.linkedin.com/in/denispavlovic</li>
-<li>Personal Website: www.denispavlovic.com</li>
-<li>Mail: contact@denispavlovic.com</li>
-</ul>
-
-## Skills
-Laravel, Livewire, PHP 8, MySQL, React, React Native, HTML, CSS, JavaScript, jQuery
-
-
-
-<!--
-**itsdenispavlovic/itsdenispavlovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📞 Phone: +381 66 803 1919 <br/>
+✉ Email: office@denispavlovic.com <br/>
+💬 Skype: https://join.skype.com/invite/GCtWkBpQho6K <br/>
